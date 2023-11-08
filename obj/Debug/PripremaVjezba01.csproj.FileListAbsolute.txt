@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\obj\Debug\PripremaVjezba01.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\obj\Debug\PripremaVjezba01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\obj\Debug\PripremaVjezba01.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\bin\Debug\PripremaVjezba01.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\bin\Debug\PripremaVjezba01.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\bin\Debug\PripremaVjezba01.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\obj\Debug\PripremaVjezba01.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PripremaVjezba01\obj\Debug\PripremaVjezba01.pdb
